@@ -1,4 +1,4 @@
-![logo](https://github.com/Prithak-Rai/Prithak-Rai/blob/main/Github-banner.png)
+![logo](https://github.com/Prithak-Rai/Prithak-Rai/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Prithak Rai</h1>
 <h3 align="center">A passionate AI/ML learner</h3>
 
