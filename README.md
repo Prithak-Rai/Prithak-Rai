@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prithak Rai</h1>
 <h3 align="center">A passionate AI/ML learner</h3>
 
+
 <img align="right" alt="coding gif" width = "300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithak-rai&label=Profile%20views&color=0e75b6&style=flat" alt="prithak-rai" /> </p>
