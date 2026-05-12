@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Prithak Rai</h1>
 <h3 align="center">AI/ML Enthusiast & Computer Science Student</h3>
 
-<img align="right" alt="coding gif" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
--  Currently learning AI, Machine Learning, and Computer Vision  
--  Working on AI-based projects and robotics  
--  Reach me at: **prithak.khamtu@gmail.com**
+- 🌱 Currently learning AI, Machine Learning, and Computer Vision  
+- 💻 Working on AI-based projects and robotics  
+- 📫 Reach me at: **prithak.khamtu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,10 +24,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prithak-rai&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=prithak-rai&theme=radical" />
